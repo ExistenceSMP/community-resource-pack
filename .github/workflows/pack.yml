@@ -23,7 +23,8 @@ jobs:
       - name: Compress
         run: |
           cp LICENSE existence_community_resource_pack/LICENSE
-          zip -r existence_community_resource_pack.zip existence_community_resource_pack
+          cd existence_community_resource_pack
+          zip -r ../existence_community_resource_pack.zip *
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
