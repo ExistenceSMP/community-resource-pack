@@ -20,3 +20,9 @@ jobs:
           name: existence_community_resource_pack
           path: existence_community_resource_pack/
           include-hidden-files: true
+      - name: Compress
+        run: zip -r existence_community_resource_pack.zip existence_community_resource_pack
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: existence_community_resource_pack.zip
