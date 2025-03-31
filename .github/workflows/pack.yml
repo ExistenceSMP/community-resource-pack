@@ -14,11 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Zip
-        run: zip -r existence_community_resource_pack.zip existence_community_resource_pack
-      - name: Upload artifacts
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: existence_community_resource_pack
-          path: existence_community_resource_pack.zip
+          path: existence_community_resource_pack/
           include-hidden-files: true
