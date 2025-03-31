@@ -22,8 +22,8 @@ jobs:
           echo "COMMIT_SHORT_HASH=$shortHash" >> $GITHUB_ENV
       - name: Compress
         run: |
+          cp LICENSE existence_community_resource_pack/LICENSE
           zip -r existence_community_resource_pack.zip existence_community_resource_pack
-          zip -u existence_community_resource_pack.zip LICENSE
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
