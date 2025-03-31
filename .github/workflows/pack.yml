@@ -23,10 +23,15 @@ jobs:
           name: existence_community_resource_pack
           path: existence_community_resource_pack/
           include-hidden-files: true
+      - name: Get commit hash
+        id: vars
+        run: |
+          shortHash=$(git rev-parse --short ${{ github.sha }})
+          echo "COMMIT_SHORT_HASH=$shortHash" >> $GITHUB_ENV
       - name: Compress
         run: zip -r existence_community_resource_pack.zip existence_community_resource_pack
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
           files: existence_community_resource_pack.zip
-          tag_name: ${{ github.sha }}
+          tag_name: ${{ env.COMMIT_SHORT_HASH }}
