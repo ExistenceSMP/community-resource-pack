@@ -15,19 +15,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: existence_community_resource_pack
-          path: existence_community_resource_pack/
-          include-hidden-files: true
       - name: Get commit hash
         id: vars
         run: |
           shortHash=$(git rev-parse --short ${{ github.sha }})
           echo "COMMIT_SHORT_HASH=$shortHash" >> $GITHUB_ENV
       - name: Compress
-        run: zip -r existence_community_resource_pack.zip existence_community_resource_pack
+        run: |
+          zip -r existence_community_resource_pack.zip existence_community_resource_pack
+          zip -u existence_community_resource_pack.zip LICENSE
       - name: Release
         uses: softprops/action-gh-release@v2
         with:
