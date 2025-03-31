@@ -8,6 +8,9 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   pack:
     runs-on: ubuntu-24.04
@@ -26,3 +29,4 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: existence_community_resource_pack.zip
+          tag_name: ${{ github.sha }}
