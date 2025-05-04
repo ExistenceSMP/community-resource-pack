@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "kindabland:transparent_armor"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "kindabland:transparent_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "kindabland:transparent_armor"
+      }
+    ]
+  }
+}
