@@ -1,0 +1,44 @@
+{
+  "gui.existence_smp.root.title": "Existence SMP",
+  "gui.existence_smp.root.external_title": "Existence SMP...",
+
+  "gui.existence_smp.links.title": "Links",
+  "gui.existence_smp.links.external_title": "Links...",
+  "gui.existence_smp.links.map": "Online Map",
+  "gui.existence_smp.links.discord": "Discord",
+  "gui.existence_smp.links.patreon": "Patreon",
+  "gui.existence_smp.links.bluesky": "Bluesky",
+  "gui.existence_smp.links.youtube": "YouTube",
+
+  "gui.existence_smp.scoreboards.title": "Scoreboards",
+  "gui.existence_smp.scoreboards.external_title": "Scoreboards...",
+  "gui.existence_smp.scoreboards.afk_total": "AFK Time",
+  "gui.existence_smp.scoreboards.sleep_total": "Days Slept",
+  "gui.existence_smp.scoreboards.deaths": "Deaths",
+  "gui.existence_smp.scoreboards.dried_ghast": "Dried Ghasts Crafted",
+  "gui.existence_smp.scoreboards.elytra": "Elytra Distance",
+  "gui.existence_smp.scoreboards.happy_ghast": "Happy Ghast Distance",
+  "gui.existence_smp.scoreboards.playtime": "Play Time",
+  "gui.existence_smp.scoreboards.uptime": "Uptime",
+  "gui.existence_smp.scoreboards.wardens_killed": "Wardens Killed",
+  "gui.existence_smp.scoreboards.wardens_summoned": "Wardens Summoned",
+
+  "gui.existence_smp.customization.title": "Customization",
+  "gui.existence_smp.customization.external_title": "Customization...",
+
+  "gui.existence_smp.pronouns.title": "Pronouns",
+  "gui.existence_smp.pronouns.external_title": "Pronouns...",
+  "gui.existence_smp.pronouns.body": "Choose one of the options below to set your pronouns.",
+  "gui.existence_smp.pronouns.custom.external_title": "Custom...",
+  "gui.existence_smp.customization.pronouns.custom.label": "Custom Pronouns",
+
+  "gui.existence_smp.patron_color.title": "Patron Name Color",
+  "gui.existence_smp.patron_color.external_title": "Patron Name Color...",
+  "gui.existence_smp.patron_color.tooltip": "Requires Patron status.",
+  "gui.existence_smp.patron_color.body": "Choose one of the options below to set your Patron name color.",
+
+  "gui.existence_smp.hud.title": "HUD Settings",
+  "gui.existence_smp.hud.external_title": "HUD Settings...",
+
+  "gui.existence_smp.server_transfer": "Server Transfer"
+}
