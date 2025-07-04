@@ -39,6 +39,12 @@
 
   "gui.existence_smp.hud.title": "HUD Settings",
   "gui.existence_smp.hud.external_title": "HUD Settings...",
+  "gui.existence_smp.hud.display": "Display",
+  "gui.existence_smp.hud.display.off": "OFF",
+  "gui.existence_smp.hud.display.coordinates": "Coordinates",
+  "gui.existence_smp.hud.display.coordinates_light": "Coordinates (Light Text)",
+  "gui.existence_smp.hud.display.compass": "Compass",
+  "gui.existence_smp.hud.display.compass_light": "Compass (Light Text)",
 
   "gui.existence_smp.server_transfer": "Server Transfer"
 }

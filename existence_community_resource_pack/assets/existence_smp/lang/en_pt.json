@@ -1,0 +1,50 @@
+{
+  "gui.existence_smp.root.title": "Isle o' existence",
+  "gui.existence_smp.root.external_title": "Isle o' existence...",
+
+  "gui.existence_smp.links.title": "Links",
+  "gui.existence_smp.links.external_title": "Links...",
+  "gui.existence_smp.links.map": "Map o' th' isle",
+  "gui.existence_smp.links.discord": "Discord",
+  "gui.existence_smp.links.patreon": "Patreon",
+  "gui.existence_smp.links.bluesky": "Bluesky",
+  "gui.existence_smp.links.youtube": "YouTube",
+
+  "gui.existence_smp.scoreboards.title": "Scoreboards",
+  "gui.existence_smp.scoreboards.external_title": "Scoreboards...",
+  "gui.existence_smp.scoreboards.afk_total": "Driftin' time",
+  "gui.existence_smp.scoreboards.sleep_total": "Nights spent snorin'",
+  "gui.existence_smp.scoreboards.deaths": "Trips to Davy Jones' locker",
+  "gui.existence_smp.scoreboards.dried_ghast": "Dry ghasts crafted",
+  "gui.existence_smp.scoreboards.elytra": "Length fluttered",
+  "gui.existence_smp.scoreboards.happy_ghast": "Ghast o' glee length",
+  "gui.existence_smp.scoreboards.playtime": "Time sailed in this sea",
+  "gui.existence_smp.scoreboards.uptime": "Time sails be hoisted",
+  "gui.existence_smp.scoreboards.wardens_killed": "Monstrous beasts slaughtered",
+  "gui.existence_smp.scoreboards.wardens_summoned": "Monstrous beasts brought t' life",
+
+  "gui.existence_smp.customization.title": "Customizin'",
+  "gui.existence_smp.customization.external_title": "Customizin'...",
+
+  "gui.existence_smp.pronouns.title": "Arrr-nouns",
+  "gui.existence_smp.pronouns.external_title": "Arrr-nouns...",
+  "gui.existence_smp.pronouns.body": "Pick what ye'd like t' be called by yer fellow sailors.",
+  "gui.existence_smp.pronouns.custom.external_title": "Yer own...",
+  "gui.existence_smp.customization.pronouns.custom.label": "Yer own arrr-nouns",
+
+  "gui.existence_smp.patron_color.title": "Deckhand pirate name dye",
+  "gui.existence_smp.patron_color.external_title": "Deckhand pirate name dye...",
+  "gui.existence_smp.patron_color.tooltip": "Reserved fer deckhands.",
+  "gui.existence_smp.patron_color.body": "Pick how ye'd like yer pirate name t' be dyed.",
+
+  "gui.existence_smp.hud.title": "HUD orders",
+  "gui.existence_smp.hud.external_title": "HUD orders...",
+  "gui.existence_smp.hud.display": "Displayin'",
+  "gui.existence_smp.hud.display.off": "Nay",
+  "gui.existence_smp.hud.display.coordinates": "Co-ordinates",
+  "gui.existence_smp.hud.display.coordinates_light": "Co-ordinates (Faint)",
+  "gui.existence_smp.hud.display.compass": "Sextant",
+  "gui.existence_smp.hud.display.compass_light": "Sextant (Faint)",
+
+  "gui.existence_smp.server_transfer": "Switch ships"
+}
