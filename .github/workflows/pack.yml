@@ -27,7 +27,8 @@ jobs:
           cp LICENSE existence_community_resource_pack/LICENSE
       - name: Zip
         run: |
-          zip -r existence_community_resource_pack.zip existence_community_resource_pack
+          cd existence_community_resource_pack
+          zip -r ../existence_community_resource_pack.zip .
       # - name: Squash
       #   uses: ComunidadAylas/PackSquash-action@v4
       #   with:
