@@ -1,0 +1,6 @@
+{
+  "parent": "igalaxy:item/simple_mask",
+  "textures": {
+    "0": "igalaxy:item/spider_mask"
+  }
+}

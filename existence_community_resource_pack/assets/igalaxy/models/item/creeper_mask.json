@@ -1,0 +1,7 @@
+{
+  "parent": "igalaxy:item/simple_mask",
+  "textures": {
+    "0": "igalaxy:item/creeper_mask",
+    "1": "minecraft:entity/creeper/creeper"
+  }
+}
