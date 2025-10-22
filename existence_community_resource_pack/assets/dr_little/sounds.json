@@ -30,5 +30,37 @@
         "stream": true
       }
     ]
+  },
+    "music_disc.custom.do_you_wonder_remix": {
+    "sounds": [
+      {
+        "name": "dr_little:records/custom/do_you_wonder_remix",
+        "stream": true
+      }
+    ]
+  },
+    "music_disc.custom.unending_rainfall": {
+    "sounds": [
+      {
+        "name": "dr_little:records/custom/unending_rainfall",
+        "stream": true
+      }
+    ]
+  },
+    "music_disc.custom.moonlight_instrumental": {
+    "sounds": [
+      {
+        "name": "dr_little:records/custom/moonlight_instrumental",
+        "stream": true
+      }
+    ]
+  },
+    "music_disc.custom.stillness": {
+    "sounds": [
+      {
+        "name": "dr_little:records/custom/stillness",
+        "stream": true
+      }
+    ]   
   }
 }
