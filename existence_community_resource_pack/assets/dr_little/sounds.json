@@ -62,5 +62,13 @@
         "stream": true
       }
     ]   
+  },
+      "music_disc.halloween.cold": {
+    "sounds": [
+      {
+        "name": "dr_little:records/halloween/cold",
+        "stream": true
+      }
+    ]   
   }
 }
