@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "kindabland:item/halloween_witch_sword"
+  }
+}
