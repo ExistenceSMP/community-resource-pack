@@ -1,7 +1,8 @@
 {
   "pack": {
     "pack_format": 69,
-    "min_format": [69, 0],
+    "min_format": 69,
+    "max_format": 69,
     "description": "§4Existence SMP\n§7Community Resource Pack"
   }
 }
