@@ -1,36 +1,4 @@
 {
-  "music_disc.halloween.common_buildup": {
-    "sounds": [
-      {
-        "name": "dr_little:records/halloween/common_buildup",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.halloween.uncommon_buildup": {
-    "sounds": [
-      {
-        "name": "dr_little:records/halloween/uncommon_buildup",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.halloween.rare_buildup": {
-    "sounds": [
-      {
-        "name": "dr_little:records/halloween/rare_buildup",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.halloween.legendary_buildup": {
-    "sounds": [
-      {
-        "name": "dr_little:records/halloween/legendary_buildup",
-        "stream": true
-      }
-    ]
-  },
   "music_disc.halloween.common_fanfare": {
     "sounds": [
       {
@@ -51,6 +19,14 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/rare_fanfare",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.halloween.legendary_fanfare": {
+    "sounds": [
+      {
+        "name": "dr_little:records/halloween/legendary_fanfare",
         "stream": true
       }
     ]
