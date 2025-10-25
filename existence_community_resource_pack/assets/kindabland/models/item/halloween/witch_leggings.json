@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "kindabland:item/halloween_bundle"
+    "layer0": "kindabland:item/halloween/witch_leggings"
   }
 }

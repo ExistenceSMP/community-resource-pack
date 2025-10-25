@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "kindabland:item/halloween_pumpkin_mace"
+    "layer0": "kindabland:item/halloween/pumpkin_mace"
   }
 }
