@@ -23,7 +23,7 @@
       }
     ]
   },
-   "music_disc.halloween.legendary_fanfare": {
+  "music_disc.halloween.legendary_fanfare": {
     "sounds": [
       {
         "name": "dr_little:records/halloween/legendary_fanfare",
