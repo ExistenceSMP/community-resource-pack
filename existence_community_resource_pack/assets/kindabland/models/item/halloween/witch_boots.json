@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "kindabland:item/halloween_witch_feet_icon"
+    "layer0": "kindabland:item/halloween/witch_boots"
   }
 }

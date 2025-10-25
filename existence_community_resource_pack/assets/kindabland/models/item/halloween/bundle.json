@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "kindabland:item/bigdig_tshirt_icon"
+    "layer0": "kindabland:item/halloween/bundle"
   }
 }

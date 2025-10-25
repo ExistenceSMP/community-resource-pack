@@ -2,12 +2,12 @@
   "layers": {
     "humanoid": [
       {
-        "texture": "kindabland:halloween_witch"
+        "texture": "kindabland:halloween/witch"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "kindabland:halloween_witch"
+        "texture": "kindabland:halloween/witch"
       }
     ]
   }
