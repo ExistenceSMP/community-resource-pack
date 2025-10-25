@@ -31,44 +31,36 @@
       }
     ]
   },
-    "music_disc.custom.do_you_wonder_remix": {
+  "music_disc.do_you_wonder_remix": {
     "sounds": [
       {
-        "name": "dr_little:records/custom/do_you_wonder_remix",
+        "name": "dr_little:records/do_you_wonder_remix",
         "stream": true
       }
     ]
   },
-    "music_disc.custom.unending_rainfall": {
+  "music_disc.unending_rainfall": {
     "sounds": [
       {
-        "name": "dr_little:records/custom/unending_rainfall",
+        "name": "dr_little:records/unending_rainfall",
         "stream": true
       }
     ]
   },
-    "music_disc.custom.moonlight_instrumental": {
+  "music_disc.moonlight_instrumental": {
     "sounds": [
       {
-        "name": "dr_little:records/custom/moonlight_instrumental",
+        "name": "dr_little:records/moonlight_instrumental",
         "stream": true
       }
     ]
   },
-    "music_disc.custom.stillness": {
+  "music_disc.stillness": {
     "sounds": [
       {
-        "name": "dr_little:records/custom/stillness",
+        "name": "dr_little:records/stillness",
         "stream": true
       }
-    ]   
-  },
-      "music_disc.halloween.cold": {
-    "sounds": [
-      {
-        "name": "dr_little:records/halloween/cold",
-        "stream": true
-      }
-    ]   
+    ]
   }
 }
