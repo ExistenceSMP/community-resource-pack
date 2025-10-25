@@ -31,6 +31,14 @@
       }
     ]
   },
+  "music_disc.halloween.cold": {
+    "sounds": [
+      {
+        "name": "dr_little:records/halloween/cold",
+        "stream": true
+      }
+    ]
+  },
   "music_disc.do_you_wonder_remix": {
     "sounds": [
       {
