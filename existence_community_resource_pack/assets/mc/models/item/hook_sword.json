@@ -1,0 +1,28 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mc:item/hook_sword"
+  },
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [0, 100, -30],
+      "translation": [-1, 3, 0],
+      "scale": [0.75, 0.75, 0.75]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -100, 30],
+      "translation": [1, 3, 0],
+      "scale": [0.75, 0.75, 0.75]
+    },
+    "thirdperson_righthand": {
+      "rotation": [-90, -90, -75],
+      "translation": [0, 7, 4.75],
+      "scale": [1, 1, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-90, 90, 75],
+      "translation": [0, 7, 4.75],
+      "scale": [1, 1, 1]
+    }
+  }
+}
