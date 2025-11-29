@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "igalaxy:item/christmas/santa_hat_icon"
+  }
+}
