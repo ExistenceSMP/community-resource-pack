@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcnugggzs:item/christmas/grinch_hat_icon"
+  }
+}
