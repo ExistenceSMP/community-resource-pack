@@ -1,0 +1,7 @@
+{
+  "parent": "igalaxy:item/christmas/present",
+  "textures": {
+    "0": "igalaxy:item/christmas/cyan_present",
+    "particle": "igalaxy:item/christmas/cyan_present"
+  }
+}
