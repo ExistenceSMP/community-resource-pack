@@ -2,17 +2,22 @@
   "layers": {
     "horse_body": [
       {
-        "texture": "kindabland:transparent_armor"
+        "texture": "kindabland:transparent"
       }
     ],
     "humanoid": [
       {
-        "texture": "kindabland:transparent_armor"
+        "texture": "kindabland:transparent"
       }
     ],
     "humanoid_leggings": [
       {
-        "texture": "kindabland:transparent_armor"
+        "texture": "kindabland:transparent"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "kindabland:transparent"
       }
     ]
   }
