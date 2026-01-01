@@ -3,7 +3,8 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/common_fanfare",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -11,7 +12,8 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/uncommon_fanfare",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -19,7 +21,8 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/rare_fanfare",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -27,7 +30,8 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/legendary_fanfare",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -35,7 +39,8 @@
     "sounds": [
       {
         "name": "dr_little:records/halloween/cold",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -43,7 +48,8 @@
     "sounds": [
       {
         "name": "dr_little:records/do_you_wonder_remix",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -51,7 +57,8 @@
     "sounds": [
       {
         "name": "dr_little:records/unending_rainfall",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -59,7 +66,8 @@
     "sounds": [
       {
         "name": "dr_little:records/moonlight_instrumental",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   },
@@ -67,7 +75,8 @@
     "sounds": [
       {
         "name": "dr_little:records/stillness",
-        "stream": true
+        "stream": true,
+        "attenuation_distance": 64
       }
     ]
   }
